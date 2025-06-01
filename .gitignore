@@ -70,3 +70,5 @@
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/c++,git,visualstudiocode
+
+oom-memory-gobbler
